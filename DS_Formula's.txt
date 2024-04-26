@@ -1,0 +1,19 @@
+*Simple Interest Calculator: P*R*T
+*Farhenite to Celsius: C = (F - 32)*(5/9);
+*Miles to Kilometer: Km = Miles*1.6
+
+RMI
+*power of two: 
+import java.lang.Math;
+Math.pow(a, b)
+
+*Lexographically Largest:
+It returns the following values:
+--> S1.compareTo(s2);
+if (string1 > string2) it returns a positive value.
+if both the strings are equal lexicographically i.e.(string1 == string2) it returns 0.
+if (string1 < string2) it returns a negative value.
+
+*Vowels sathi lowerCase madhe kar adhi character:
+s.toUpperCase() then count Capital vowel's
+
